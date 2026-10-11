@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "asyncfusion",
+  "versions": [
+    {
+      "commit": "8697a789912e2c73779b924ba7e687a7f157fffe",
+      "tag": "",
+      "parsed_at": "2026-10-11T07:52:08.784250+00:00"
+    }
+  ]
+}
